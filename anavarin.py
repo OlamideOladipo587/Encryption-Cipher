@@ -712,8 +712,8 @@ class LinkPage:
         def send_email():
             msg = encrypted_text_box1.get(1.0, END)
             user_email = askstring("Email", "Please enter the email you want to send it to")
-            MY_EMAIL = "mydigitalcipher02@gmail.com"
-            MY_PASSWORD = "kexwxprcrqhproiz"
+            MY_EMAIL = "enter your email"
+            MY_PASSWORD = "enter your password"
             try:
                 with smtplib.SMTP("smtp.gmail.com", 587) as connection:
                     connection.starttls()
