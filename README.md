@@ -12,3 +12,10 @@ Elevate your data security with this versatile Python encryption cipher, meticul
 **User-Friendly Interface:** Enjoy a simple and intuitive interface that facilitates effortless interaction with the encryption and decryption processes, ensuring a smooth user experience.
 
 **Python Implementation:** Built using Python, this encryption cipher leverages the simplicity and power of Python programming, making it accessible and easy to integrate into existing Python projects.
+![Screenshot (245)](https://github.com/OlamideOladipo587/Encryption-Cipher/assets/98642328/0d74cbfb-6c6e-4a4c-baaa-b59c68fc0c46)
+![Screenshot (50)](https://github.com/OlamideOladipo587/Encryption-Cipher/assets/98642328/ebe26bb5-55b3-4205-83ed-3c0941f378a3)
+![Screenshot (175)](https://github.com/OlamideOladipo587/Encryption-Cipher/assets/98642328/5aec69ae-b69a-4bb6-9a4e-81a6cace31f6)
+![Screenshot (187)](https://github.com/OlamideOladipo587/Encryption-Cipher/assets/98642328/44b73562-d12c-47b0-a358-5839fccfbf60)
+![Screenshot (189)](https://github.com/OlamideOladipo587/Encryption-Cipher/assets/98642328/d5a1edc1-a48e-44e8-b310-9a9a85ac0741)
+![Screenshot (191)](https://github.com/OlamideOladipo587/Encryption-Cipher/assets/98642328/33e9d68f-9a33-4e8c-a00b-3effcef65de2)
+
